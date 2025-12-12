@@ -83,7 +83,7 @@ doctor-appointment-prototype/
 
 Co-authors mentioned in Git commits as well.
 
-Harini (Lead)
+sai Harini (Lead)
 
 Himabindu
 
@@ -91,7 +91,7 @@ Noor Hameeda
 
 Lehitha
 
-Hasini Ramya
+Ramya Hasini 
 
 🎯 Purpose of This Prototype
 
